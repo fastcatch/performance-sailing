@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241123
 DTEND;VALUE=DATE:20241125
 LOCATION:Dubai\, United Arab Emirates
-NAME:SailGP - Emirates Dubai Sail Grand Prix presented by P&O Marinas
+NAME:SailGP - Emirates Dubai Sail Grand Prix\, presented by P&O Marinas
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
 BEGIN:VEVENT
@@ -27,14 +27,20 @@ DTSTART;VALUE=DATE:20250315
 DTEND;VALUE=DATE:20250317
 LOCATION:Los Angeles\, USA
 NAME:SailGP - Los Angeles Sail Grand Prix
-URL:https://sailgp.com/general/24-25/calendar
+URL:https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAL
+ ivY1BPZjqZpT0Pq_hvXlamF7_051uiZN0WgV8Iq8NPbFt7fgMhHjfgS-PLZXmq706j4E65KKBo
+ 2ztZSVVQyESKVgGjBoiCnvwmOZWlB83TxhNtCJNVVZKNcVinW6lnVxqvOSYolW_2xdYcnRM8HG
+ aew==
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250322
 DTEND;VALUE=DATE:20250324
 LOCATION:San Francisco\, USA
 NAME:SailGP - San Francisco Sail Grand Prix
-URL:https://sailgp.com/general/24-25/calendar
+URL:https://vertexaisearch.cloud.google.com/grounding-api-redirect/AWQVqAJ
+ LamQjfMseWyhuWTeFSM6zN0UpRRXSBF3IqCpTflSd6-GWX6szxtnl3sTKlL8bd8MdRjTCa12k0
+ ebk7mesj0CcvKpiFQETWDIFEOBBjHHUMD7J4CHyhgrQTMbvNaRTEfna7nLvJKJe1RWKlhtdoj8
+ b7lrmxDkdkkXZ25lsCcRT
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250503
@@ -53,14 +59,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250719
 DTEND;VALUE=DATE:20250721
-LOCATION:Venue to be announced\, Great Britain
+LOCATION:Location to be announced\, Great Britain
 NAME:SailGP - Great Britain Sail Grand Prix
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250816
 DTEND;VALUE=DATE:20250818
-LOCATION:Venue to be announced\, Germany
+LOCATION:Location to be announced\, Germany
 NAME:SailGP - Germany Sail Grand Prix
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
@@ -75,21 +81,21 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250920
 DTEND;VALUE=DATE:20250922
 LOCATION:Geneva\, Switzerland
-NAME:SailGP - Geneva Sail Grand Prix
+NAME:SailGP - Switzerland Sail Grand Prix
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251006
 LOCATION:Cádiz\, Spain
-NAME:SailGP - Spain Sail Grand Prix | Andalucía - Cádiz
+NAME:SailGP - Spain Sail Grand Prix | Andalucía – Cádiz
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251109
-LOCATION:Middle East location to be announced
-NAME:SailGP - SailGP Event
+LOCATION:Location to be announced
+NAME:SailGP - Middle Eastern Event
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
 BEGIN:VEVENT
@@ -101,122 +107,59 @@ NAME:SailGP - Mubadala Abu Dhabi Sail Grand Prix 2024/2025 Season Grand Fi
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241012
-DTEND;VALUE=DATE:20241013
+DTSTART;VALUE=DATE:20241110
+DTEND;VALUE=DATE:20241111
+LOCATION:Les Sables d'Olonne\, France
+NAME:IMOCA World Series - Vendée Globe
+URL:https://www.vendeeglobe.org/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250810
+DTEND;VALUE=DATE:20250811
+LOCATION:Kiel\, Germany to Boka Bay\, Montenegro
+NAME:IMOCA World Series - The Ocean Race Europe
+URL:https://www.imoca
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240822
+DTEND;VALUE=DATE:20240826
 LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Race 1
+NAME:America's Cup - Preliminary Regattas
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241012
-DTEND;VALUE=DATE:20241013
+DTSTART;VALUE=DATE:20240829
+DTEND;VALUE=DATE:20241006
 LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Race 2
-URL:https://www.americascup.com/en/ac37-schedule
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241013
-DTEND;VALUE=DATE:20241014
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Race 3
-URL:https://www.americascup.com/en/ac37-schedule
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241013
-DTEND;VALUE=DATE:20241014
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Race 4
-URL:https://www.americascup.com/en/ac37-schedule
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241016
-DTEND;VALUE=DATE:20241017
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Race 5
-URL:https://www.americascup.com/en/ac37-schedule
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241016
-DTEND;VALUE=DATE:20241017
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Race 6
-URL:https://www.americascup.com/en/ac37-schedule
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241018
-DTEND;VALUE=DATE:20241019
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Race 7
-URL:https://www.americascup.com/en/ac37-schedule
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241018
-DTEND;VALUE=DATE:20241019
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Race 8
-URL:https://www.americascup.com/en/ac37-schedule
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241019
-DTEND;VALUE=DATE:20241020
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Race 9
-URL:https://www.americascup.com/en/ac37-schedule
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241019
-DTEND;VALUE=DATE:20241020
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Race 10
-URL:https://www.americascup.com/en/ac37-schedule
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241020
-DTEND;VALUE=DATE:20241021
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Race 11
-URL:https://www.americascup.com/en/ac37-schedule
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241020
-DTEND;VALUE=DATE:20241021
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Race 12
-URL:https://www.americascup.com/en/ac37-schedule
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241021
-DTEND;VALUE=DATE:20241022
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Race 13
+NAME:America's Cup - Louis Vuitton Cup (Challenger Selection Series)
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240829
 DTEND;VALUE=DATE:20240909
 LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Round Robin 1 & 2
+NAME:America's Cup - Round Robin
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240914
 DTEND;VALUE=DATE:20240920
 LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Louis Vuitton Cup Semi-Finals
+NAME:America's Cup - Semi-Finals
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240926
 DTEND;VALUE=DATE:20241006
 LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Louis Vuitton Cup Final
+NAME:America's Cup - Finals
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240822
-DTEND;VALUE=DATE:20240826
-LOCATION:Barcelona\, Spain
-NAME:America's Cup - Barcelona\, Spain Preliminary Regattas
+DTSTART;VALUE=DATE:20240917
+DTEND;VALUE=DATE:20240927
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Youth America's Cup
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 BEGIN:VEVENT
@@ -227,10 +170,10 @@ NAME:America's Cup - Puig Women's America's Cup
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240917
-DTEND;VALUE=DATE:20240927
+DTSTART;VALUE=DATE:20241012
+DTEND;VALUE=DATE:20241022
 LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Youth America's Cup
+NAME:America's Cup - Match Races
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 END:VCALENDAR
