@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250503
 DTEND;VALUE=DATE:20250505
 LOCATION:Brazil
-NAME:SailGP - Brazil Sail Grand Prix
+NAME:SailGP - Brazil Sail Grand Prix | Venue to be announced
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
 BEGIN:VEVENT
@@ -54,14 +54,14 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250719
 DTEND;VALUE=DATE:20250721
 LOCATION:Great Britain
-NAME:SailGP - Great Britain Sail Grand Prix
+NAME:SailGP - Great Britain Sail Grand Prix | Venue to be announced
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250816
 DTEND;VALUE=DATE:20250818
 LOCATION:Germany
-NAME:SailGP - Germany Sail Grand Prix
+NAME:SailGP - Germany Sail Grand Prix | Venue to be announced
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
 BEGIN:VEVENT
@@ -72,10 +72,24 @@ NAME:SailGP - ROCKWOOL Italy Sail Grand Prix | Taranto
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250920
+DTEND;VALUE=DATE:20250922
+LOCATION:Geneva
+NAME:SailGP - Switzerland Sail Grand Prix | Geneva
+URL:https://sailgp.com/general/24-25/calendar
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251006
-LOCATION:Andalucía – Cádiz
-NAME:SailGP - Spain Sail Grand Prix | Andalucía – Cádiz
+LOCATION:Andalucía - Cádiz
+NAME:SailGP - Spain Sail Grand Prix | Andalucía - Cádiz
+URL:https://sailgp.com/general/24-25/calendar
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251109
+LOCATION:Middle East
+NAME:SailGP - Middle Eastern Event | Venue to be announced
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
 BEGIN:VEVENT
@@ -83,47 +97,7 @@ DTSTART;VALUE=DATE:20251129
 DTEND;VALUE=DATE:20251201
 LOCATION:Abu Dhabi
 NAME:SailGP - Mubadala Abu Dhabi Sail Grand Prix 2024/2025 Season Grand Fi
- nal
+ nal presented by Abu Dhabi Sports Council
 URL:https://sailgp.com/general/24-25/calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250625
-DTEND;VALUE=DATE:20250707
-LOCATION:Starts and finishes in Boulogne-sur-Mer\, France\; race around th
- e British Isles.
-NAME:IMOCA World Series - Course des Caps - Boulogne sur Mer - Banque Popu
- laire du Nord
-URL:https://www.lacoursedescaps.com/
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250726
-DTEND;VALUE=DATE:20250727
-LOCATION:Not specified in detail\, but the Rolex Fastnet Race typically st
- arts from Cowes\, UK\, rounds the Fastnet Rock off the coast of Ireland\, 
- and finishes in Cherbourg\, France.
-NAME:IMOCA World Series - Rolex Fastnet Race
-URL:https://www.imoca
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250810
-DTEND;VALUE=DATE:20250922
-LOCATION:Starts in Kiel\, Germany\, visits five Western European ports\, a
- nd finishes in Boka Bay\, Montenegro.
-NAME:IMOCA World Series - The Ocean Race Europe
-URL:https://www.imoca
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250916
-DTEND;VALUE=DATE:20250917
-LOCATION:Lorient\, France
-NAME:IMOCA World Series - Défi Azimut-Lorient Agglomération
-URL:https://www.imoca
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251026
-DTEND;VALUE=DATE:20251027
-LOCATION:None
-NAME:IMOCA World Series - Transat Café L'Or
-URL:https://www.imoca
 END:VEVENT
 END:VCALENDAR
