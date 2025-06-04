@@ -4,8 +4,7 @@ X-WR-CALNAME:Performance Sailing Events
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250629
 DTEND;VALUE=DATE:20250630
-LOCATION:Starts and finishes in Boulogne-sur-Mer\, France\; race around th
- e British Isles
+LOCATION:Boulogne-sur-Mer\, France
 NAME:IMOCA World Series - Course des Caps-Boulogne sur Mer-Banque Populair
  e du Nord
 URL:https://www.lacoursedescaps.com/
@@ -13,9 +12,127 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250810
 DTEND;VALUE=DATE:20250811
-LOCATION:Starts in Kiel\, Germany\, with stopovers in Britain\, Spain\, Fr
- ance\, and Italy\, finishing in Boka Bay\, Montenegro.
+LOCATION:Kiel\, Germany
 NAME:IMOCA World Series - The Ocean Race Europe
 URL:https://www.imoca
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241012
+DTEND;VALUE=DATE:20241013
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Race 1
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241012
+DTEND;VALUE=DATE:20241013
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Race 2
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241013
+DTEND;VALUE=DATE:20241014
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Race 3
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241013
+DTEND;VALUE=DATE:20241014
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Race 4
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241016
+DTEND;VALUE=DATE:20241017
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Race 5
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241016
+DTEND;VALUE=DATE:20241017
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Race 6
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241018
+DTEND;VALUE=DATE:20241019
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Race 7
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241018
+DTEND;VALUE=DATE:20241019
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Race 8
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241019
+DTEND;VALUE=DATE:20241020
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Race 9
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241019
+DTEND;VALUE=DATE:20241020
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Race 10
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241020
+DTEND;VALUE=DATE:20241021
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Race 11
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241020
+DTEND;VALUE=DATE:20241021
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Race 12
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241021
+DTEND;VALUE=DATE:20241022
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Race 13
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240822
+DTEND;VALUE=DATE:20240826
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Louis Vuitton Preliminary Regatta
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240829
+DTEND;VALUE=DATE:20241008
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Louis Vuitton Cup (Challenger Selection Series)
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240917
+DTEND;VALUE=DATE:20240927
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - UniCredit Youth America's Cup
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241005
+DTEND;VALUE=DATE:20241014
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Puig Women's America's Cup
+URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 END:VCALENDAR
