@@ -1,41 +1,38 @@
-| Series | Event | Location | Start Date | End Date | URL |
+| Series | Event | Location | URL | Start Date | End Date |
 |---|---|---|---|---|---|
-| America's Cup | *Preliminary Regatta 3* | Barcelona, Spain | 2024-08-22 | *2024-08-25* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Round Robin* | Barcelona, Spain | 2024-08-29 | *2024-09-08* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Louis Vuitton Cup (Challenger Selection Series)* | Barcelona, Spain | 2024-08-29 | *2024-10-07* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Semi Finals* | Barcelona, Spain | 2024-09-14 | *2024-09-19* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Unicredit Youth America's Cup* | Barcelona, Spain | 2024-09-17 | *2024-09-26* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Finals* | Barcelona, Spain | 2024-09-26 | *2024-10-07* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Puig Women's America's Cup* | Barcelona, Spain | 2024-10-05 | *2024-10-13* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Louis Vuitton 37th America's Cup Match* | Barcelona, Spain | 2024-10-12 | *2024-10-27* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Race 1* | Barcelona, Spain | 2024-10-12 | *2024-10-12* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Race 2* | Barcelona, Spain | 2024-10-12 | *2024-10-12* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Race 3* | Barcelona, Spain | 2024-10-13 | *2024-10-13* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Race 4* | Barcelona, Spain | 2024-10-13 | *2024-10-13* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Race 5* | Barcelona, Spain | 2024-10-16 | *2024-10-16* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Race 6* | Barcelona, Spain | 2024-10-16 | *2024-10-16* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Race 7* | Barcelona, Spain | 2024-10-18 | *2024-10-18* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Race 8* | Barcelona, Spain | 2024-10-18 | *2024-10-18* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Race 9* | Barcelona, Spain | 2024-10-19 | *2024-10-19* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Race 10* | Barcelona, Spain | 2024-10-19 | *2024-10-19* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Race 11* | Barcelona, Spain | 2024-10-20 | *2024-10-20* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Race 12* | Barcelona, Spain | 2024-10-20 | *2024-10-20* | https://www.americascup.com/en/ac37-schedule |
-| America's Cup | *Race 13* | Barcelona, Spain | 2024-10-21 | *2024-10-21* | https://www.americascup.com/en/ac37-schedule |
-| IMOCA World Series | *The Transat CIC* |  | 2024 | *2024* | https://www.imoca |
-| IMOCA World Series | *New York Vendée - Les Sables d'Olonne* |  | 2024 | *2024* | https://www.imoca |
-| IMOCA World Series | *Vendée Globe* |  | 2024 | 2025 | https://www.imoca |
-| IMOCA World Series | *Course des Caps* |  | 2025-06-29 | 2025-06-29 | https://www.imoca |
-| IMOCA World Series | *Rolex Fastnet Race* |  | 2025-07 | 2025-07 | https://www.imoca |
-| IMOCA World Series | The Ocean Race Europe | Kiel, Germany to Boka Bay, Montenegro | 2025-08-10 | 2025-08-10 | https://www.imoca |
-| IMOCA World Series | Défi Azimut-Lorient Agglomération | Lorient, France | 2025-09 | 2025-09 | https://www.imoca |
-| IMOCA World Series | Transat Café L'Or |  | 2025-10 | 2025-10 | https://www.imoca |
-| IMOCA World Series | Vendée Arctique |  | 2026-06 | 2026-06 | https://www.imoca |
-| IMOCA World Series | The Ocean Race Atlantic | New York, USA to Barcelona, Spain | 2026-08 | 2026-08 | https://www.imoca |
-| IMOCA World Series | Route du Rhum-Destination Guadeloupe |  | 2026-11 | 2026-11 | https://www.imoca |
-| IMOCA World Series | The Ocean Race |  | 2027 | 2027 | https://www.imoca |
-| IMOCA World Series | Défi Azimut-Lorient Agglomération | Lorient, France | 2027 | 2027 | https://www.imoca |
-| IMOCA World Series | Transat Café L'Or |  | 2027 | 2027 | https://www.imoca |
-| IMOCA World Series | Retour à La Base |  | 2027 | 2027 | https://www.imoca |
-| IMOCA World Series | Rolex Fastnet Race |  | 2027-07 | 2027-07 | https://www.imoca |
-| SailGP | *Emirates Dubai Sail Grand Prix, presented by P&O Marinas* | Dubai | 2024-11-23 | *2024-11-24* | https://sailgp.com/general/24-25/calendar |
-| SailGP | ITM New Zealand Sail Grand Prix &#12
+| *America's Cup* | *Preliminary Regattas* | *Barcelona, Catalonia, Spain* | *https://www.americascup.com/en/ac37-schedule* | *2024-08-22* | *2024-08-25* |
+| *America's Cup* | *Louis Vuitton Cup (Challenger Selection Series): Round Robin phase* | *Barcelona, Catalonia, Spain* | *https://www.americascup.com/en/ac37-schedule* | *2024-08-29* | *2024-09-08* |
+| *America's Cup* | *Louis Vuitton Cup (Challenger Selection Series): Semi-Finals* | *Barcelona, Catalonia, Spain* | *https://www.americascup.com/en/ac37-schedule* | *2024-09-14* | *2024-09-19* |
+| *America's Cup* | *Youth America's Cup* | *Barcelona, Catalonia, Spain* | *https://www.americascup.com/en/ac37-schedule* | *2024-09-17* | *2024-09-26* |
+| *America's Cup* | *Louis Vuitton Cup (Challenger Selection Series): Finals* | *Barcelona, Catalonia, Spain* | *https://www.americascup.com/en/ac37-schedule* | *2024-09-26* | *2024-10-05* |
+| *America's Cup* | *Puig Women's America's Cup* | *Barcelona, Catalonia, Spain* | *https://www.americascup.com/en/ac37-schedule* | *2024-10-05* | *2024-10-13* |
+| *America's Cup* | *America's Cup Final: Start of the America's Cup Final with two races scheduled* | *Barcelona, Catalonia, Spain* | *https://www.americascup.com/en/ac37-schedule* | *2024-10-12* | *2024-10-12* |
+| *America's Cup* | *America's Cup Final* | *Barcelona, Catalonia, Spain* | *https://www.americascup.com/en/ac37-schedule* | *2024-10-12* | *2024-10-21* |
+| *America's Cup* | *America's Cup Final: Second day of racing* | *Barcelona, Catalonia, Spain* | *https://www.americascup.com/en/ac37-schedule* | *2024-10-13* | *2024-10-13* |
+| *America's Cup* | *America's Cup Final: Scheduled end of the America's Cup Final, conditions permitting* | *Barcelona, Catalonia, Spain* | *https://www.americascup.com/en/ac37-schedule* | *2024-10-19* | *2024-10-20* |
+| *IMOCA World Series* | *Course des Caps* | *Boulogne-Sur-Mer, British Isles* | *https://www.imoca* | *2025-06-29* | *2025-06-29* |
+| IMOCA World Series | The Ocean Race Europe |  | https://www.imoca | 2025-08-10 | 2025-08-10 |
+| IMOCA World Series | Défi Azimut-Lorient Agglomération | Lorient, France | https://www.imoca | 2025-09-16 | 2025-09-16 |
+| IMOCA World Series | Transat Café L'Or |  | https://www.imoca | 2025-10-26 | 2025-10-26 |
+| IMOCA World Series | Vendée Arctique |  | https://www.imoca | 2026-06 | 2026-06 |
+| IMOCA World Series | The Ocean Race Atlantic |  | https://www.imoca | 2026-08 | 2026-08 |
+| IMOCA World Series | Route du Rhum-Destination Guadeloupe |  | https://www.imoca | 2026-11 | 2026-11 |
+| IMOCA World Series | The Ocean Race | Alicante, Spain | https://www.imoca |  |  |
+| IMOCA World Series | Rolex Fastnet Race | Cowes, Isle of Wight | https://www.imoca |  |  |
+| IMOCA World Series | New York Vendée - Les Sables d'Olonne |  | https://www.imoca |  |  |
+| IMOCA World Series | Retour à La Base | Fort-de-France, Martinique | https://www.imoca |  |  |
+| IMOCA World Series | Vendée Globe |  | https://www.imoca |  |  |
+| *SailGP* | *Emirates Dubai Sail Grand Prix (presented by P&O Marinas)* | *Dubai* | *https://sailgp.com/general/24-25/calendar* | *2024-11-23* | *2024-11-24* |
+| SailGP | ITM New Zealand Sail Grand Prix | Auckland | https://sailgp.com/general/24-25/calendar | 2025-01-18 | 2025-01-19 |
+| SailGP | KPMG Australia Sail Grand Prix | Sydney | https://sailgp.com/general/24-25/calendar | 2025-02-08 | 2025-02-09 |
+| SailGP | Los Angeles Sail Grand Prix | Los Angeles | https://sailgp.com/general/24-25/calendar | 2025-03-15 | 2025-03-16 |
+| SailGP | San Francisco Sail Grand Prix | San Francisco | https://sailgp.com/general/24-25/calendar | 2025-03-22 | 2025-03-23 |
+| SailGP | Brazil Sail Grand Prix | Location to be announced | https://sailgp.com/general/24-25/calendar | 2025-05-03 | 2025-05-04 |
+| SailGP | Mubadala New York Sail Grand Prix | New York | https://sailgp.com/general/24-25/calendar | 2025-06-07 | 2025-06-08 |
+| SailGP | Great Britain Sail Grand Prix | Location to be announced | https://sailgp.com/general/24-25/calendar | 2025-07-19 | 2025-07-20 |
+| SailGP | Germany Sail Grand Prix | Location to be announced | https://sailgp.com/general/24-25/calendar | 2025-08-16 | 2025-08-17 |
+| SailGP | ROCKWOOL Italy Sail Grand Prix | Taranto | https://sailgp.com/general/24-25/calendar | 2025-09-06 | 2025-09-07 |
+| SailGP | Switzerland Sail Grand Prix | Geneva | https://sailgp.com/general/24-25/calendar | 2025-09-20 | 2025-09-21 |
+| SailGP | Spain Sail Grand Prix | Andalucía - Cádiz | Cádiz | https://sailgp.com/general/24-25/calendar | 2025-10-04 | 2025-10-05 |
+| SailGP | Middle Eastern Event | Location to be announced | https://sailgp.com/general/24-25/calendar | 2025-11-07 | 2025-11-08 |
+| SailGP | Mubadala Abu Dhabi Sail Grand Prix 2024/2025 Season Grand Final (presented by Abu Dhabi Sports Council) | Abu Dhabi | https
