@@ -86,13 +86,6 @@ NAME:SailGP - Spain Sail Grand Prix | Andalucía – Cádiz
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251107
-DTEND;VALUE=DATE:20251109
-LOCATION:Location to be announced
-NAME:SailGP - Middle East Event
-URL:https://sailgp.com/general/24-25/calendar
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251129
 DTEND;VALUE=DATE:20251201
 LOCATION:Abu Dhabi
@@ -110,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250916
 DTEND;VALUE=DATE:20250917
-LOCATION:None
+LOCATION:Lorient\, France
 NAME:IMOCA World Series - Défi Azimut-Lorient Agglomération
 URL:https://www.imoca
 END:VEVENT
@@ -139,7 +132,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240829
 DTEND;VALUE=DATE:20240909
 LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Round Robins
+NAME:America's Cup - Round Robin 1 & 2
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 BEGIN:VEVENT
@@ -157,17 +150,10 @@ NAME:America's Cup - Finals
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241012
-DTEND;VALUE=DATE:20241022
+DTSTART;VALUE=DATE:20240926
+DTEND;VALUE=DATE:20241008
 LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - America's Cup Match
-URL:https://www.americascup.com/en/ac37-schedule
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240917
-DTEND;VALUE=DATE:20240927
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Youth America's Cup
+NAME:America's Cup - UniCredit Youth America's Cup
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 BEGIN:VEVENT
@@ -175,6 +161,13 @@ DTSTART;VALUE=DATE:20241005
 DTEND;VALUE=DATE:20241014
 LOCATION:Barcelona\, Catalonia\, Spain
 NAME:America's Cup - Puig Women's America's Cup
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241012
+DTEND;VALUE=DATE:20241028
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Louis Vuitton 37th America's Cup Match
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 END:VCALENDAR
