@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241123
 DTEND;VALUE=DATE:20241125
 LOCATION:Dubai
-NAME:SailGP - Emirates Dubai Sail Grand Prix\, presented by P&O Marinas
+NAME:SailGP - Emirates Dubai Sail Grand Prix presented by P&O Marinas
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
 BEGIN:VEVENT
@@ -81,15 +81,15 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251006
-LOCATION:Andalucía – Cádiz
-NAME:SailGP - Spain Sail Grand Prix | Andalucía – Cádiz
+LOCATION:Andalucía - Cádiz
+NAME:SailGP - Spain Sail Grand Prix | Andalucía - Cádiz
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251109
 LOCATION:Location to be announced
-NAME:SailGP - Middle Eastern Event
+NAME:SailGP - Middle Eastern event
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
 BEGIN:VEVENT
@@ -117,16 +117,16 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250810
 DTEND;VALUE=DATE:20250811
-LOCATION:Kiel\, Germany
+LOCATION:None
 NAME:IMOCA World Series - The Ocean Race Europe
-URL:https://www.imoca
+URL:https://www.theoceanrace.com
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250918
-DTEND;VALUE=DATE:20250919
-LOCATION:None
-NAME:IMOCA World Series - Défi Azimut-Lorient Agglomération
-URL:https://www.imoca
+DTSTART;VALUE=DATE:20250920
+DTEND;VALUE=DATE:20250921
+LOCATION:Boka Bay\, Montenegro
+NAME:IMOCA World Series - Finale Coastal Race: Boka Bay\, Montenegro
+URL:https://www.theoceanrace.com
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251026
@@ -138,42 +138,49 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240822
 DTEND;VALUE=DATE:20240826
-LOCATION:Barcelona\, Spain
+LOCATION:Barcelona\, Catalonia\, Spain
 NAME:America's Cup - Preliminary Regatta
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240829
-DTEND;VALUE=DATE:20241008
-LOCATION:Barcelona\, Spain
-NAME:America's Cup - Louis Vuitton Cup (Challenger Selection Series)
-URL:https://www.americascup.com/en/ac37-schedule
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240829
 DTEND;VALUE=DATE:20240909
-LOCATION:Barcelona\, Spain
-NAME:America's Cup - Round Robins
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Louis Vuitton Cup Round Robins
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240914
 DTEND;VALUE=DATE:20240920
-LOCATION:Barcelona\, Spain
-NAME:America's Cup - Semi Finals
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Louis Vuitton Cup Semi Finals
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240917
+DTEND;VALUE=DATE:20240927
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Youth America's Cup
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240926
 DTEND;VALUE=DATE:20241006
-LOCATION:Barcelona\, Spain
-NAME:America's Cup - Finals
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Louis Vuitton Cup Finals
+URL:https://www.americascup.com/en/ac37-schedule
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241005
+DTEND;VALUE=DATE:20241014
+LOCATION:Barcelona\, Catalonia\, Spain
+NAME:America's Cup - Puig Women's America's Cup
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241012
 DTEND;VALUE=DATE:20241022
-LOCATION:Barcelona\, Spain
+LOCATION:Barcelona\, Catalonia\, Spain
 NAME:America's Cup - America's Cup Match
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
