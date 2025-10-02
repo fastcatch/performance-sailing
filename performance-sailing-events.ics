@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 X-WR-CALDESC:A calendar of some high profile yacht racing events.
 X-WR-CALNAME:Performance Sailing Events
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241123
+DTEND;VALUE=DATE:20241125
+LOCATION:Dubai
+NAME:SailGP - Emirates Dubai Sail Grand Prix\, presented by P&O Marinas
+URL:https://sailgp.com/general/24-25/calendar
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250118
 DTEND;VALUE=DATE:20250120
 LOCATION:Auckland
@@ -32,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250503
 DTEND;VALUE=DATE:20250505
-LOCATION:Venue to be announced
+LOCATION:Brazil (Venue to be announced)
 NAME:SailGP - Brazil Sail Grand Prix
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
@@ -46,14 +53,14 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250719
 DTEND;VALUE=DATE:20250721
-LOCATION:Venue to be announced
+LOCATION:Great Britain (Venue to be announced)
 NAME:SailGP - Great Britain Sail Grand Prix
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250816
 DTEND;VALUE=DATE:20250818
-LOCATION:Venue to be announced
+LOCATION:Germany (Venue to be announced)
 NAME:SailGP - Germany Sail Grand Prix
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
@@ -81,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
 DTEND;VALUE=DATE:20251109
-LOCATION:Middle East
+LOCATION:Middle East (Location to be announced)
 NAME:SailGP - Middle Eastern Event
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
@@ -90,7 +97,7 @@ DTSTART;VALUE=DATE:20251129
 DTEND;VALUE=DATE:20251201
 LOCATION:Abu Dhabi
 NAME:SailGP - Mubadala Abu Dhabi Sail Grand Prix 2024/2025 Season Grand Fi
- nal
+ nal presented by Abu Dhabi Sports Council
 URL:https://sailgp.com/general/24-25/calendar
 END:VEVENT
 BEGIN:VEVENT
@@ -160,7 +167,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241012
 DTEND;VALUE=DATE:20241022
 LOCATION:Barcelona
-NAME:America's Cup - Louis Vuitton 37th America's Cup Match
+NAME:America's Cup - America's Cup Match
 URL:https://www.americascup.com/en/ac37-schedule
 END:VEVENT
 END:VCALENDAR
