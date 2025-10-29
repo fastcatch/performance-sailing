@@ -5,169 +5,366 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241123
 DTEND;VALUE=DATE:20241125
 LOCATION:Dubai
-NAME:SailGP - Emirates Dubai Sail Grand Prix (presented by P&O Marinas)
-URL:https://sailgp.com/general/24-25/calendar
+NAME:SailGP 2024-25 Calendar - Emirates Dubai Sail Grand Prix presented by
+  P&O Marinas
+URL:https://sailgp.com/general/24-25/calendar/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250118
 DTEND;VALUE=DATE:20250120
 LOCATION:Auckland
-NAME:SailGP - ITM New Zealand Sail Grand Prix
-URL:https://sailgp.com/general/24-25/calendar
+NAME:SailGP 2024-25 Calendar - ITM New Zealand Sail Grand Prix | Auckland
+URL:https://sailgp.com/general/24-25/calendar/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250208
 DTEND;VALUE=DATE:20250210
 LOCATION:Sydney
-NAME:SailGP - KPMG Australia Sail Grand Prix
-URL:https://sailgp.com/general/24-25/calendar
+NAME:SailGP 2024-25 Calendar - KPMG Australia Sail Grand Prix | Sydney
+URL:https://sailgp.com/general/24-25/calendar/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250315
 DTEND;VALUE=DATE:20250317
 LOCATION:Los Angeles
-NAME:SailGP - Los Angeles Sail Grand Prix
-URL:https://sailgp.com/general/24-25/calendar
+NAME:SailGP 2024-25 Calendar - Los Angeles Sail Grand Prix
+URL:https://sailgp.com/general/24-25/calendar/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250322
 DTEND;VALUE=DATE:20250324
 LOCATION:San Francisco
-NAME:SailGP - San Francisco Sail Grand Prix
-URL:https://sailgp.com/general/24-25/calendar
+NAME:SailGP 2024-25 Calendar - San Francisco Sail Grand Prix
+URL:https://sailgp.com/general/24-25/calendar/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250503
 DTEND;VALUE=DATE:20250505
-LOCATION:Venue to be announced
-NAME:SailGP - Brazil Sail Grand Prix
-URL:https://sailgp.com/general/24-25/calendar
+LOCATION:To be announced
+NAME:SailGP 2024-25 Calendar - Brazil Sail Grand Prix
+URL:https://sailgp.com/general/24-25/calendar/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250607
 DTEND;VALUE=DATE:20250609
 LOCATION:New York
-NAME:SailGP - Mubadala New York Sail Grand Prix
-URL:https://sailgp.com/general/24-25/calendar
+NAME:SailGP 2024-25 Calendar - Mubadala New York Sail Grand Prix
+URL:https://sailgp.com/general/24-25/calendar/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250719
 DTEND;VALUE=DATE:20250721
-LOCATION:Venue to be announced
-NAME:SailGP - Great Britain Sail Grand Prix
-URL:https://sailgp.com/general/24-25/calendar
+LOCATION:To be announced
+NAME:SailGP 2024-25 Calendar - Great Britain Sail Grand Prix
+URL:https://sailgp.com/general/24-25/calendar/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250816
 DTEND;VALUE=DATE:20250818
-LOCATION:Venue to be announced
-NAME:SailGP - Germany Sail Grand Prix
-URL:https://sailgp.com/general/24-25/calendar
+LOCATION:To be announced
+NAME:SailGP 2024-25 Calendar - Germany Sail Grand Prix
+URL:https://sailgp.com/general/24-25/calendar/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250906
 DTEND;VALUE=DATE:20250908
 LOCATION:Taranto
-NAME:SailGP - ROCKWOOL Italy Sail Grand Prix
-URL:https://sailgp.com/general/24-25/calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250920
-DTEND;VALUE=DATE:20250922
-LOCATION:Geneva
-NAME:SailGP - Switzerland Sail Grand Prix
-URL:https://sailgp.com/general/24-25/calendar
+NAME:SailGP 2024-25 Calendar - ROCKWOOL Italy Sail Grand Prix
+URL:https://sailgp.com/general/24-25/calendar/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251004
 DTEND;VALUE=DATE:20251006
-LOCATION:Andalucía - Cádiz
-NAME:SailGP - Spain Sail Grand Prix
-URL:https://sailgp.com/general/24-25/calendar
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251107
-DTEND;VALUE=DATE:20251109
-LOCATION:Middle East
-NAME:SailGP - Middle Eastern event
-URL:https://sailgp.com/general/24-25/calendar
+LOCATION:Cádiz
+NAME:SailGP 2024-25 Calendar - Spain Sail Grand Prix | Andalucía – Cád
+ iz
+URL:https://sailgp.com/general/24-25/calendar/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251129
 DTEND;VALUE=DATE:20251201
 LOCATION:Abu Dhabi
-NAME:SailGP - Mubadala Abu Dhabi Sail Grand Prix 2024/2025 Season Grand Fi
- nal (presented by Abu Dhabi Sports Council)
-URL:https://sailgp.com/general/24-25/calendar
+NAME:SailGP 2024-25 Calendar - Mubadala Abu Dhabi Sail Grand Prix 2024/202
+ 5 Season Grand Final presented by Abu Dhabi Sports Council
+URL:https://sailgp.com/general/24-25/calendar/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250810
-DTEND;VALUE=DATE:20250811
-LOCATION:Unknown
-NAME:IMOCA World Series - The Ocean Race Europe
-URL:https://www.imoca
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260119
+LOCATION:Perth\, Australia
+NAME:SailGP 2026 Calendar - Oracle Perth Sail Grand Prix presented by KPMG
+URL:https://sailgp.com/general/2026/calendar/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251026
-DTEND;VALUE=DATE:20251027
-LOCATION:Unknown
-NAME:IMOCA World Series - Transat Café L'Or
-URL:https://www.imoca
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260216
+LOCATION:Auckland\, New Zealand
+NAME:SailGP 2026 Calendar - ITM New Zealand Sail Grand Prix
+URL:https://sailgp.com/general/2026/calendar/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240822
-DTEND;VALUE=DATE:20240826
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Barcelona Preliminary Regatta
-URL:https://www.americascup.com/en/ac37-schedule
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260302
+LOCATION:Sydney\, Australia
+NAME:SailGP 2026 Calendar - KPMG Sydney Sail Grand Prix
+URL:https://sailgp.com/general/2026/calendar/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240829
-DTEND;VALUE=DATE:20241008
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Louis Vuitton Cup (Challenger Selection Series)
-URL:https://www.americascup.com/en/ac37-schedule
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260413
+LOCATION:Rio de Janeiro\, Brazil
+NAME:SailGP 2026 Calendar - Enel Rio Sail Grand Prix
+URL:https://sailgp.com/general/2026/calendar/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240829
-DTEND;VALUE=DATE:20240909
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Round Robin 1 & 2
-URL:https://www.americascup.com/en/ac37-schedule
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260511
+LOCATION:Bermuda
+NAME:SailGP 2026 Calendar - Apex Group Bermuda Sail Grand Prix
+URL:https://sailgp.com/general/2026/calendar/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240914
-DTEND;VALUE=DATE:20240920
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Semi-Finals
-URL:https://www.americascup.com/en/ac37-schedule
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260601
+LOCATION:New York\, USA
+NAME:SailGP 2026 Calendar - Mubadala New York Sail Grand Prix
+URL:https://sailgp.com/general/2026/calendar/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240926
-DTEND;VALUE=DATE:20241008
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Finals
-URL:https://www.americascup.com/en/ac37-schedule
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260622
+LOCATION:Halifax\, Canada
+NAME:SailGP 2026 Calendar - Canada Sail Grand Prix
+URL:https://sailgp.com/general/2026/calendar/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240917
-DTEND;VALUE=DATE:20240927
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - UniCredit Youth America's Cup
-URL:https://www.americascup.com/en/ac37-schedule
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
+LOCATION:Saint-Tropez\, France
+NAME:SailGP 2026 Calendar - ROCKWOOL France Sail Grand Prix
+URL:https://sailgp.com/general/2026/calendar/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241005
-DTEND;VALUE=DATE:20241014
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Puig Women's America's Cup
-URL:https://www.americascup.com/en/ac37-schedule
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+LOCATION:Dubai\, UAE
+NAME:SailGP 2026 Calendar - Emirates Dubai Sail Grand Prix\, presented by 
+ DP World
+URL:https://sailgp.com/general/2026/calendar/
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241012
-DTEND;VALUE=DATE:20241022
-LOCATION:Barcelona\, Catalonia\, Spain
-NAME:America's Cup - Louis Vuitton 37th America's Cup Match
-URL:https://www.americascup.com/en/ac37-schedule
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261130
+LOCATION:Abu Dhabi\, UAE
+NAME:SailGP 2026 Calendar - Mubadala Abu Dhabi Sail Grand Prix 2026 Season
+  Grand Final\, presented by Abu Dhabi Sports Council
+URL:https://sailgp.com/general/2026/calendar/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251123
+DTEND;VALUE=DATE:20251221
+LOCATION:Las Palmas\, Gran Canaria to Rodney Bay\, Saint Lucia
+NAME:ARC (Atlantic Rally for Cruisers) - ARC Transatlantic Race
+URL:https://www.worldcruising.com/arc/arc.aspx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261220
+LOCATION:Las Palmas\, Gran Canaria to Rodney Bay\, Saint Lucia
+NAME:ARC (Atlantic Rally for Cruisers) - ARC Transatlantic Race
+URL:https://www.worldcruising.com/arc/arc.aspx
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251123
+DTEND;VALUE=DATE:20251221
+LOCATION:Las Palmas de Gran Canaria to Rodney Bay in Saint Lucia
+NAME:World Cruising Club - ARC Rallies - ARC (Atlantic Rally for Cruisers)
+URL:https://www.worldcruising.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+LOCATION:Sint Maarten to Bermuda
+NAME:World Cruising Club - ARC Rallies - ARC Europe - Sint Maarten to Berm
+ uda
+URL:https://www.worldcruising.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251205
+DTEND;VALUE=DATE:20251207
+LOCATION:Sydney-Cabbage Tree Island-Sydney
+NAME:Australian Maxi Championship (CYCA) 2025 - Cabbage Tree Island Race
+URL:https://cyca.com.au/event/one-circular-quay-australian-maxi-championsh
+ ip/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251206
+DTEND;VALUE=DATE:20251210
+LOCATION:Off Sydney's coastline
+NAME:Australian Maxi Championship (CYCA) 2025 - Passage Racing
+URL:https://cyca.com.au/event/one-circular-quay-australian-maxi-championsh
+ ip/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251209
+DTEND;VALUE=DATE:20251210
+LOCATION:Sydney Harbour
+NAME:Australian Maxi Championship (CYCA) 2025 - SOLAS Big Boat Challenge
+URL:https://cyca.com.au/event/one-circular-quay-australian-maxi-championsh
+ ip/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251226
+DTEND;VALUE=DATE:20251227
+LOCATION:Sydney\, New South Wales to Hobart\, Tasmania
+NAME:Australian Maxi Championship (CYCA) 2025 - Rolex Sydney Hobart Yacht 
+ Race
+URL:https://cyca.com.au/event/one-circular-quay-australian-maxi-championsh
+ ip/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251110
+LOCATION:Altea\, Spain
+NAME:Youth SAILING Champions League Final 2025 (Altea) - Youth SAILING Cha
+ mpions League Final 2025 (Altea)
+URL:https://sailing-championsleague.com/youth-sailing-champions-league-202
+ 5-last-tickets-available/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251207
+LOCATION:Kata Beach\, Phuket
+NAME:Phuket King's Cup Regatta 2025 - Keelboats
+URL:https://kingscup.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251207
+LOCATION:Kata Beach\, Phuket
+NAME:Phuket King's Cup Regatta 2025 - Multihulls
+URL:https://kingscup.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251207
+LOCATION:Kata Beach\, Phuket
+NAME:Phuket King's Cup Regatta 2025 - Optimists
+URL:https://kingscup.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251207
+LOCATION:Kata Beach\, Phuket
+NAME:Phuket King's Cup Regatta 2025 - Dinghies
+URL:https://kingscup.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251207
+LOCATION:Kata Beach\, Phuket
+NAME:Phuket King's Cup Regatta 2025 - IRC Zero
+URL:https://kingscup.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251207
+LOCATION:Kata Beach\, Phuket
+NAME:Phuket King's Cup Regatta 2025 - Premier Class
+URL:https://kingscup.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251207
+LOCATION:Kata Beach\, Phuket
+NAME:Phuket King's Cup Regatta 2025 - IRC 1
+URL:https://kingscup.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251207
+LOCATION:Kata Beach\, Phuket
+NAME:Phuket King's Cup Regatta 2025 - IRC 2
+URL:https://kingscup.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251207
+LOCATION:Kata Beach\, Phuket
+NAME:Phuket King's Cup Regatta 2025 - Bareboat
+URL:https://kingscup.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251207
+LOCATION:Kata Beach\, Phuket
+NAME:Phuket King's Cup Regatta 2025 - Cruising
+URL:https://kingscup.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251207
+LOCATION:Kata Beach\, Phuket
+NAME:Phuket King's Cup Regatta 2025 - Classic
+URL:https://kingscup.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251207
+LOCATION:Kata Beach\, Phuket
+NAME:Phuket King's Cup Regatta 2025 - Monohull cruising divisions
+URL:https://kingscup.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251207
+LOCATION:Kata Beach\, Phuket
+NAME:Phuket King's Cup Regatta 2025 - Multihull cruising divisions
+URL:https://kingscup.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251129
+DTEND;VALUE=DATE:20251207
+LOCATION:Kata Beach\, Phuket
+NAME:Phuket King's Cup Regatta 2025 - Disabled sailing in two-person S\\V1
+ 4 dinghies
+URL:https://kingscup.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250629
+DTEND;VALUE=DATE:20250630
+LOCATION:Boulogne-sur-Mer\, France
+NAME:IMOCA Globe Series (Championship 2025-2029) - Course des Caps
+URL:https://www.imoca.org/en/races/imoca-globe-series
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241110
+DTEND;VALUE=DATE:20241111
+LOCATION:Les Sables-d'Olonne
+NAME:IMOCA Globe Series (Championship 2025-2029) - Vendée Globe
+URL:https://www.imoca.org/en/races/imoca-globe-series
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251226
+DTEND;VALUE=DATE:20260103
+LOCATION:Sydney Harbour\, New South Wales\, Australia\, and finishes in Ho
+ bart\, Tasmania\, Australia. The finish line is at Constitution Dock in do
+ wntown Hobart.
+NAME:Rolex Sydney Hobart Yacht Race 2025 - Rolex Sydney Hobart Yacht Race
+URL:https://www.rolexsydneyhobart.com/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260316
+LOCATION:St. Barthélemy
+NAME:St Barths Bucket Regatta 2026 - St. Barths Bucket Regatta
+URL:https://bucketregatta.com/future-bucket-dates/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260316
+LOCATION:St. Barthélemy
+NAME:St Barths Bucket Regatta 2026 - Round-the-Island Race
+URL:https://bucketregatta.com/future-bucket-dates/
 END:VEVENT
 END:VCALENDAR
